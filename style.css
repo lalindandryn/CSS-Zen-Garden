@@ -316,7 +316,7 @@ p.desc, a.author{
 	font-size: 17.7px;
 	font-family: sertig;
 }
-
+/* 
 h1.content-titel::after, h2.content-titel::before{
 	background-color: #7D775C;
 	content: '';
@@ -336,7 +336,7 @@ h1.content-titel::after{
 h2.content-titel::before{
 	margin-left: -50px;
 	height: 200px;
-}
+} */
 
 .round-box{
 	border-radius: 10px;
