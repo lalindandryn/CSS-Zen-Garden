@@ -1,1 +1,4 @@
-<?php include_once("public/index.html"); ?>
+<?php
+header("Location: /public", true, 301);
+die();
+?>
