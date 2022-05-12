@@ -191,7 +191,7 @@ header {
 }
 
 .parallax{
-	min-height: 635px;
+	min-height: 600px;
 
 	background-attachment: fixed;
 	background-position: center;
