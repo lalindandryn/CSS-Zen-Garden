@@ -221,12 +221,12 @@ img.logo-img{
 
 @font-face {
 	font-family: bebas-neue;
-	src: url(Fonts/bebas-neue/BebasNeue-Regular.ttf);
+	src: url(../Fonts/bebas-neue/BebasNeue-Regular.ttf);
 }
 
 @font-face {
 	font-family: sertig;
-	src: url(Fonts/sertig/Sertig.otf);
+	src: url(../Fonts/sertig/Sertig.otf);
 }
 
 h1.fonts{
@@ -281,6 +281,7 @@ h1.fonts{
 	box-shadow: 2px 2px #B3AE94;
 	background-color: white;
 	display: inline-block;
+	width: 250px;
 }
 
 .img-content{
@@ -293,7 +294,8 @@ h1.fonts{
 .text-desc{
 	text-align: center;
 	display: inline-block;
-	padding: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
 	font-size: 20px;
 }
 
