@@ -44,7 +44,7 @@ h3::after, content-row::after{
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #26611F;
 	}
 a:visited { 
 	font-weight: bold; 
@@ -65,11 +65,6 @@ abbr {
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
-	}
-
-.intro { 
-	min-width: 470px;
-	width: 100%;
 	}
 
 header h1 { 
